@@ -15,11 +15,11 @@ D:/unity/20210919/smallbetturgame/smallbuttergame/smailbuttergame2021
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61981
+55817
 Successfully changed project path to: D:/unity/20210919/smallbetturgame/smallbuttergame/smailbuttergame2021
 D:/unity/20210919/smallbetturgame/smallbuttergame/smailbuttergame2021
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 37.74 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 36.45 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.13f1 (71691879b7f5)
 [Subsystems] Discovering subsystems at path D:/3D/Unity Hub/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
@@ -35,40 +35,40 @@ Initialize mono
 Mono path[0] = 'D:/3D/Unity Hub/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
 Mono path[1] = 'D:/3D/Unity Hub/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/3D/Unity Hub/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56808
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56824
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/3D/Unity Hub/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: D:/3D/Unity Hub/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
-Registered in 0.002436 seconds.
+Registered in 0.002935 seconds.
 Native extension for Lumin target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 37.19 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 38.56 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.203 seconds
+- Completed reload, in  1.160 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003548 seconds.
+Registered in 0.003535 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for Lumin target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 36.58 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 38.68 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.974 seconds
+- Completed reload, in  0.986 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 96.0 MB.
-System memory in use after: 96.0 MB.
+Unloading 2084 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.7 MB.
+System memory in use after: 95.7 MB.
 
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2530.
-Total: 2.523100 ms (FindLiveObjects: 0.221200 ms CreateObjectMapping: 0.047300 ms MarkObjects: 2.115500 ms  DeleteObjects: 0.137500 ms)
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2521.
+Total: 2.382000 ms (FindLiveObjects: 0.211900 ms CreateObjectMapping: 0.056600 ms MarkObjects: 2.004200 ms  DeleteObjects: 0.108300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -82,552 +82,121 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/素材/gfx/font.png
-  artifactKey: Guid(142b87ae6f49ead4b953f30229f44361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/gfx/font.png using Guid(142b87ae6f49ead4b953f30229f44361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '672afb8b09e6d882f4ca88da62cba747') in 0.074353 seconds 
-  Import took 0.077692 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/素材/gfx
-  artifactKey: Guid(6129ea9192e9ab549a9a58b02e95dc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/gfx using Guid(6129ea9192e9ab549a9a58b02e95dc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89ef0ab7b294eae53f53b106e1490b65') in 0.001772 seconds 
-  Import took 0.004458 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000148 seconds.
-  path: Assets/素材/gfx/Inner.png
-  artifactKey: Guid(ddbe20c4710d47b48a27094f4740d72a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/gfx/Inner.png using Guid(ddbe20c4710d47b48a27094f4740d72a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd02802b27ed9bf676360169c6918e31b') in 0.008419 seconds 
-  Import took 0.011012 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/素材/gfx/character.png
-  artifactKey: Guid(b81fb8b14213c534198335d689a7cd20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/gfx/character.png using Guid(b81fb8b14213c534198335d689a7cd20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc52a3dad008f908db78cc8e5ac378a1') in 0.018037 seconds 
-  Import took 0.020857 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000271 seconds.
-  path: Assets/素材/gfx/log.png
-  artifactKey: Guid(04a58f1c5aa49e144bf8402ddcc08cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/gfx/log.png using Guid(04a58f1c5aa49e144bf8402ddcc08cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d8de43e1d3bc2e4f66461c54e30e19') in 0.016716 seconds 
-  Import took 0.019962 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/素材/gfx/objects.png
-  artifactKey: Guid(0d13206ed94c5004dbc793ec716f541d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/gfx/objects.png using Guid(0d13206ed94c5004dbc793ec716f541d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd6beddfbf677152f84a1e7e892ca091') in 0.012281 seconds 
-  Import took 0.015021 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/素材/gfx/cave.png
-  artifactKey: Guid(cd2316f9c17950648a8d34bceaf870be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/gfx/cave.png using Guid(cd2316f9c17950648a8d34bceaf870be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da2bb805419f5d9e37c49ca30df7b82c') in 0.013004 seconds 
-  Import took 0.016039 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000307 seconds.
-  path: Assets/素材/gfx/Overworld.png
-  artifactKey: Guid(f08fa3ef65f7c8741877fb1655e7af16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/gfx/Overworld.png using Guid(f08fa3ef65f7c8741877fb1655e7af16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222118b019b2d479d042eeef107316a0') in 0.013445 seconds 
-  Import took 0.016421 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/素材/gfx/NPC_test.png
-  artifactKey: Guid(513efd3c2c945174c8ad1793ee0b91cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/gfx/NPC_test.png using Guid(513efd3c2c945174c8ad1793ee0b91cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ed002cc210d625f7cd882d7718664d8') in 0.012908 seconds 
-  Import took 0.016006 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 453.668021 seconds.
-  path: Assets/素材/gfx/TileA2.png
-  artifactKey: Guid(24738e4cbde58b24c9b58dce9ce9a2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/gfx/TileA2.png using Guid(24738e4cbde58b24c9b58dce9ce9a2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32608daf396492dfbb39d2c630d8a863') in 0.017858 seconds 
-  Import took 0.021008 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.685319 seconds.
-  path: Assets/素材/gfx/TileA1.png
-  artifactKey: Guid(34848fb586080344dace984baf0afb81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/gfx/TileA1.png using Guid(34848fb586080344dace984baf0afb81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd439d3f0286cbec6ef31a9d4730a3d37') in 0.010182 seconds 
-  Import took 0.013734 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.380990 seconds.
-  path: Assets/素材/gfx/TileC.png
-  artifactKey: Guid(aa90298dea6781844aba490366eadcc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/gfx/TileC.png using Guid(aa90298dea6781844aba490366eadcc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f72a72c8d10f50ee2373ffadfe8754f2') in 0.022979 seconds 
-  Import took 0.026922 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.539350 seconds.
-  path: Assets/素材/gfx/TileA2 1.png
-  artifactKey: Guid(0c3bfbc75a8e10f4d8029c0bb7fb408c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/gfx/TileA2 1.png using Guid(0c3bfbc75a8e10f4d8029c0bb7fb408c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17ffa8f41de2a6e97bb410b8e6f763f7') in 0.020029 seconds 
-  Import took 0.023750 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 43.688654 seconds.
-  path: Assets/素材/Tilesets
-  artifactKey: Guid(f00e07710d8fd034eb49cf3bdad97e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets using Guid(f00e07710d8fd034eb49cf3bdad97e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87d89b48d4ceb54c761169bdcf3f2139') in 0.001957 seconds 
-  Import took 0.004797 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.220409 seconds.
-  path: Assets/素材/Tilesets/090313TileE.png
-  artifactKey: Guid(a16c121106025954d86f71b78fb18074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/090313TileE.png using Guid(a16c121106025954d86f71b78fb18074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37abb14bcbf6325b4f0bd7420d1a0943') in 0.009592 seconds 
-  Import took 0.013649 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000252 seconds.
-  path: Assets/素材/Tilesets/imgbb4a816d3b7378c.png
-  artifactKey: Guid(61220e94d727a564b99638dcf1f66118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/imgbb4a816d3b7378c.png using Guid(61220e94d727a564b99638dcf1f66118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a1e2726f4af6052a25dc52a18b7dadb') in 0.016445 seconds 
-  Import took 0.019624 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/素材/Tilesets/TileA3.png
-  artifactKey: Guid(6fa54e70238278445b36050f2cfa798f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileA3.png using Guid(6fa54e70238278445b36050f2cfa798f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7577e5b38e312e938221bd718bce812d') in 0.014530 seconds 
-  Import took 0.018194 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000307 seconds.
-  path: Assets/素材/Tilesets/TileA1.png
-  artifactKey: Guid(e266ecb9ea3db7e428ed445e90c6aaec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileA1.png using Guid(e266ecb9ea3db7e428ed445e90c6aaec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a03438ce5f98f2933cb6ea26a15f9439') in 0.012957 seconds 
-  Import took 0.016890 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/素材/Tilesets/imgbb4b52b6e1d9b12.png
-  artifactKey: Guid(aa2c2061e943ade41871b761cb8628d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/imgbb4b52b6e1d9b12.png using Guid(aa2c2061e943ade41871b761cb8628d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b1346220c736e7214a6e52c7dbab344') in 0.014815 seconds 
-  Import took 0.018487 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000283 seconds.
-  path: Assets/素材/Tilesets/0000130315.png
-  artifactKey: Guid(e59b89211cc8b4845a61b6f8e37bc246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/0000130315.png using Guid(e59b89211cc8b4845a61b6f8e37bc246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5933af5b451ba584ebb07b03ce627c85') in 0.024139 seconds 
-  Import took 0.027347 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/素材/Tilesets/imgbb4d8a32df13c67.png
-  artifactKey: Guid(6e6217f89cd6ffc4ca5372be74406ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/imgbb4d8a32df13c67.png using Guid(6e6217f89cd6ffc4ca5372be74406ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f273aac6dd3b7dd570b76a771151aec9') in 0.015911 seconds 
-  Import took 0.019398 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000203 seconds.
-  path: Assets/素材/Tilesets/TileA2.png
-  artifactKey: Guid(d3b43712df137674a994b3a4442f8348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileA2.png using Guid(d3b43712df137674a994b3a4442f8348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dbdbf8f482835c386d62850aae2b6ca') in 0.012488 seconds 
-  Import took 0.015267 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/素材/Tilesets/TileA4.png
-  artifactKey: Guid(b1d429699992dfa4bb42683cbb1610cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileA4.png using Guid(b1d429699992dfa4bb42683cbb1610cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '572f7f8aaa1f9e5bd4ec7d489a0a663e') in 0.014030 seconds 
-  Import took 0.017980 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000297 seconds.
-  path: Assets/素材/Tilesets/0000130314.png
-  artifactKey: Guid(cad2503f57e18fc46b1f7f9eb8b7b89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/0000130314.png using Guid(cad2503f57e18fc46b1f7f9eb8b7b89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4a244dcada2f88d441f16a3fcc20ef1') in 0.012026 seconds 
-  Import took 0.015935 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/素材/Tilesets/imgbb4f7ad439ebcf9キマイラの檻.png
-  artifactKey: Guid(ae4d990ef9c2cea4ead2806a63198c7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/imgbb4f7ad439ebcf9キマイラの檻.png using Guid(ae4d990ef9c2cea4ead2806a63198c7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a456f899936c5b88a6797787b59b9a32') in 0.011291 seconds 
-  Import took 0.014799 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/素材/Tilesets/090408TileE_s.png
-  artifactKey: Guid(332813ceadd61f04c8c874fdfdf55346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/090408TileE_s.png using Guid(332813ceadd61f04c8c874fdfdf55346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f556411d078f045acd3a3b931fc9804') in 0.013840 seconds 
-  Import took 0.016956 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000318 seconds.
-  path: Assets/素材/Tilesets/imgbb51f8a0067c706.png
-  artifactKey: Guid(b9806c6f36fa75c44ad1950f1e9fc6e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/imgbb51f8a0067c706.png using Guid(b9806c6f36fa75c44ad1950f1e9fc6e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb947fdfce19a67ac03c89263dbf28aa') in 0.012633 seconds 
-  Import took 0.015760 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/素材/Tilesets/imgbb51173a842bfa2.png
-  artifactKey: Guid(25827cb14678d6b40a5b9ea24ea7e505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/imgbb51173a842bfa2.png using Guid(25827cb14678d6b40a5b9ea24ea7e505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a29ef3279480b3afff11c2095358c07') in 0.014064 seconds 
-  Import took 0.017345 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Assets/素材/Tilesets/imgbb4e6ffc73b8725.png
-  artifactKey: Guid(af1ce3ec45fc4f44e861a774e4de5d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/imgbb4e6ffc73b8725.png using Guid(af1ce3ec45fc4f44e861a774e4de5d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b01d06d473e4bd89ee7c31b8efb91b7') in 0.008703 seconds 
-  Import took 0.012438 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/素材/Tilesets/0000130312.png
-  artifactKey: Guid(fdf326c943c72b446b0a1a89c52c991e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/0000130312.png using Guid(fdf326c943c72b446b0a1a89c52c991e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf79804add5d3b47d53df90488531e42') in 0.016140 seconds 
-  Import took 0.019752 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000244 seconds.
-  path: Assets/素材/Tilesets/0000130313.png
-  artifactKey: Guid(7c8f85a0391c9274fb213f363edfdccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/0000130313.png using Guid(7c8f85a0391c9274fb213f363edfdccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2df95b7d69e814685d8a60a662bb6390') in 0.012727 seconds 
-  Import took 0.016268 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000268 seconds.
-  path: Assets/素材/Tilesets/0000130311.png
-  artifactKey: Guid(0001225ceb041bd46b8cadfdd18bdd1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/0000130311.png using Guid(0001225ceb041bd46b8cadfdd18bdd1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7311a369d3aff285fa27e354b3b42b62') in 0.016008 seconds 
-  Import took 0.019588 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000213 seconds.
-  path: Assets/素材/Tilesets/0000130157.png
-  artifactKey: Guid(945e72fd086a64340813686da002b1b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/0000130157.png using Guid(945e72fd086a64340813686da002b1b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e38713cb6d0519f525fffb1ae0118d91') in 0.011708 seconds 
-  Import took 0.015814 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.066380 seconds.
-  path: Assets/素材/Tilesets/TileA5.png
-  artifactKey: Guid(85ec347f8599a5549839a227abdb01f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileA5.png using Guid(85ec347f8599a5549839a227abdb01f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2887ef513225b8a8e526f4827dc88304') in 0.007677 seconds 
-  Import took 0.011038 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/素材/Tilesets/TileC.png
-  artifactKey: Guid(9f6b684ea725dd0498a0f5049927ef77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileC.png using Guid(9f6b684ea725dd0498a0f5049927ef77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88171c49aa8f200c080e535fb93f87d') in 0.009510 seconds 
-  Import took 0.013965 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/素材/Tilesets/TileB.png
-  artifactKey: Guid(52a18f2214c61fc46877818d11e80ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileB.png using Guid(52a18f2214c61fc46877818d11e80ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8102405df8ca02bd04c7ea891de4da0a') in 0.011114 seconds 
-  Import took 0.013936 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.044947 seconds.
-  path: Assets/素材/Tilesets/TileD.png
-  artifactKey: Guid(2f8e5e14b0b1656409827348cdce7828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileD.png using Guid(2f8e5e14b0b1656409827348cdce7828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89ec269b4bd375f83cfd8621438c7e38') in 0.010014 seconds 
-  Import took 0.013090 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000225 seconds.
-  path: Assets/素材/Tilesets/TileE.png
-  artifactKey: Guid(ff77618a0c07dc3488dd36d942776165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileE.png using Guid(ff77618a0c07dc3488dd36d942776165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd112dcf3691e89be27834f85ed88ac77') in 0.006798 seconds 
-  Import took 0.009650 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/素材/Tilesets/TileE1.png
-  artifactKey: Guid(86059db0d2e1b07488863f8eae0fafd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileE1.png using Guid(86059db0d2e1b07488863f8eae0fafd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e35934f7452ee08436d996808470c7c6') in 0.007965 seconds 
-  Import took 0.012046 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.031690 seconds.
-  path: Assets/素材/Tilesets/TileE12.png
-  artifactKey: Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileE12.png using Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5085379f33c3fd1168aca9e154560016') in 0.010164 seconds 
-  Import took 0.013492 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 937.784504 seconds.
   path: Assets/素材/Tilesets/Outside_C.png
   artifactKey: Guid(ab94059c2dd61304d9e00ed598f55369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/Outside_C.png using Guid(ab94059c2dd61304d9e00ed598f55369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f699a0b32690e6d37ca228350af7633') in 0.011173 seconds 
-  Import took 0.014962 seconds .
+Start importing Assets/素材/Tilesets/Outside_C.png using Guid(ab94059c2dd61304d9e00ed598f55369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce423c1d126745ae7e14ea05161da40') in 0.219924 seconds 
+  Import took 0.224748 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 286.001423 seconds.
-  path: Assets/素材/Tilesets/TileE12.png
-  artifactKey: Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileE12.png using Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9db5ecf4b319661dc178fab60de17b3e') in 0.021416 seconds 
-  Import took 0.025726 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003330 seconds.
-  path: Assets/素材/Tilesets/TileE12.png
-  artifactKey: Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileE12.png using Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9db5ecf4b319661dc178fab60de17b3e') in 0.006582 seconds 
-  Import took 0.009372 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 59.981988 seconds.
-  path: Assets/素材/Tilesets/TileE12.png
-  artifactKey: Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileE12.png using Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a1212ddb325876d7ff93a85a23b5f73') in 0.019248 seconds 
-  Import took 0.023194 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 85.830956 seconds.
-  path: Assets/素材/Tilesets/TileE12.png
-  artifactKey: Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileE12.png using Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba73f3787fb9e01d562a134a89f3acad') in 0.015927 seconds 
-  Import took 0.019793 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 22.532977 seconds.
-  path: Assets/素材/Tilesets/TileE12.png
-  artifactKey: Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileE12.png using Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c136e7c14f0159768a4862b1dbd9591') in 0.024892 seconds 
-  Import took 0.028382 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 325.662547 seconds.
-  path: Assets/素材/Tilesets/TileE12.png
-  artifactKey: Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileE12.png using Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4deb42520caa3cf470f708c645bec796') in 0.259481 seconds 
-  Import took 0.263888 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 694.201409 seconds.
-  path: Assets/素材/Tilesets/TileE12.png
-  artifactKey: Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileE12.png using Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7284bdca77ef28dc629b0463d39999d') in 0.257047 seconds 
-  Import took 0.262160 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 75.056278 seconds.
-  path: Assets/素材/Tilesets/090313TileE.png
-  artifactKey: Guid(a16c121106025954d86f71b78fb18074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/090313TileE.png using Guid(a16c121106025954d86f71b78fb18074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '979179d7b96711818b2efe5352d02526') in 0.014878 seconds 
-  Import took 0.019489 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 125.711323 seconds.
-  path: Assets/素材/Tilesets/090313TileE.png
-  artifactKey: Guid(a16c121106025954d86f71b78fb18074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/090313TileE.png using Guid(a16c121106025954d86f71b78fb18074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d4d66ee67281d7d2ef3040445395d6f') in 0.059131 seconds 
-  Import took 0.063226 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 25.934053 seconds.
-  path: Assets/素材/Tilesets/090408TileE_s.png
-  artifactKey: Guid(332813ceadd61f04c8c874fdfdf55346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/090408TileE_s.png using Guid(332813ceadd61f04c8c874fdfdf55346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e03d166f0a5f5334217fb008eea1ccb') in 0.013227 seconds 
-  Import took 0.016448 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 179.885360 seconds.
-  path: Assets/素材/Tilesets/090408TileE_s.png
-  artifactKey: Guid(332813ceadd61f04c8c874fdfdf55346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/090408TileE_s.png using Guid(332813ceadd61f04c8c874fdfdf55346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af5aed2a36a247e1d7e6dae1851f1b15') in 0.071468 seconds 
-  Import took 0.075875 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 38.374293 seconds.
-  path: Assets/素材/Tilesets/imgbb4b52b6e1d9b12.png
-  artifactKey: Guid(aa2c2061e943ade41871b761cb8628d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/imgbb4b52b6e1d9b12.png using Guid(aa2c2061e943ade41871b761cb8628d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd90801d282b44ec345f68782f9cb4e4c') in 0.013816 seconds 
-  Import took 0.017539 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 432.940984 seconds.
-  path: Assets/素材/Tilesets/imgbb4b52b6e1d9b12.png
-  artifactKey: Guid(aa2c2061e943ade41871b761cb8628d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/imgbb4b52b6e1d9b12.png using Guid(aa2c2061e943ade41871b761cb8628d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37776909bb8369a6e4a85b8bfc65016d') in 0.107165 seconds 
-  Import took 0.110596 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 25.226319 seconds.
-  path: Assets/素材/Tilesets/imgbb4f7ad439ebcf9キマイラの檻.png
-  artifactKey: Guid(ae4d990ef9c2cea4ead2806a63198c7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/imgbb4f7ad439ebcf9キマイラの檻.png using Guid(ae4d990ef9c2cea4ead2806a63198c7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '726314a44b378d6099518b07405dd42c') in 0.015085 seconds 
-  Import took 0.018367 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 481.378965 seconds.
-  path: Assets/素材/Tilesets/imgbb4f7ad439ebcf9キマイラの檻.png
-  artifactKey: Guid(ae4d990ef9c2cea4ead2806a63198c7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/imgbb4f7ad439ebcf9キマイラの檻.png using Guid(ae4d990ef9c2cea4ead2806a63198c7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a0e4070f4a3cbd4a17abf25f363ab3') in 0.274989 seconds 
-  Import took 0.279882 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 23.100103 seconds.
-  path: Assets/素材/Tilesets/imgbb51173a842bfa2.png
-  artifactKey: Guid(25827cb14678d6b40a5b9ea24ea7e505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/imgbb51173a842bfa2.png using Guid(25827cb14678d6b40a5b9ea24ea7e505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5184d406a17be72a5509a574ac30e76') in 0.010902 seconds 
-  Import took 0.014396 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.522220 seconds.
-  path: Assets/素材/Tilesets/imgbb51173a842bfa2.png
-  artifactKey: Guid(25827cb14678d6b40a5b9ea24ea7e505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/imgbb51173a842bfa2.png using Guid(25827cb14678d6b40a5b9ea24ea7e505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be274f230131f6eda16317fea93b8e0') in 0.220470 seconds 
-  Import took 0.224186 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 19.906265 seconds.
+  Time since last request: 68.486250 seconds.
   path: Assets/素材/Tilesets/TileA1.png
   artifactKey: Guid(e266ecb9ea3db7e428ed445e90c6aaec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileA1.png using Guid(e266ecb9ea3db7e428ed445e90c6aaec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90fc100a2164340f74abdc3c12f5df25') in 0.012558 seconds 
-  Import took 0.016719 seconds .
+Start importing Assets/素材/Tilesets/TileA1.png using Guid(e266ecb9ea3db7e428ed445e90c6aaec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d0df09b3fb92ce6a400e727b2c5f0c9') in 0.189393 seconds 
+  Import took 0.193530 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 455.691411 seconds.
-  path: Assets/素材/Tilesets/TileA1.png
-  artifactKey: Guid(e266ecb9ea3db7e428ed445e90c6aaec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileA1.png using Guid(e266ecb9ea3db7e428ed445e90c6aaec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07573e9e4d2a71a937e6c60bac00b095') in 0.169135 seconds 
-  Import took 0.173684 seconds .
+  Time since last request: 13.820942 seconds.
+  path: Assets/素材/Tilesets/TileA3.png
+  artifactKey: Guid(6fa54e70238278445b36050f2cfa798f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/Tilesets/TileA3.png using Guid(6fa54e70238278445b36050f2cfa798f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c799a52042ccc9bc6f244b668ecce444') in 0.012718 seconds 
+  Import took 0.015945 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 20.770603 seconds.
-  path: Assets/素材/Tilesets/TileA2.png
-  artifactKey: Guid(d3b43712df137674a994b3a4442f8348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileA2.png using Guid(d3b43712df137674a994b3a4442f8348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95fd8a3edb5d469cab8976eee94c820c') in 0.016746 seconds 
-  Import took 0.020175 seconds .
+  Time since last request: 0.039682 seconds.
+  path: Assets/素材/Tilesets/TileA3.png
+  artifactKey: Guid(6fa54e70238278445b36050f2cfa798f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/Tilesets/TileA3.png using Guid(6fa54e70238278445b36050f2cfa798f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c799a52042ccc9bc6f244b668ecce444') in 0.007741 seconds 
+  Import took 0.010929 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 651.038812 seconds.
-  path: Assets/素材/Tilesets/TileA2.png
-  artifactKey: Guid(d3b43712df137674a994b3a4442f8348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileA2.png using Guid(d3b43712df137674a994b3a4442f8348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67488b577fe6155231ba09cdee976e13') in 0.146964 seconds 
-  Import took 0.150562 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003489 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.877 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 99.4 MB.
-System memory in use after: 99.5 MB.
-
-Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2760.
-Total: 2.665700 ms (FindLiveObjects: 0.347100 ms CreateObjectMapping: 0.069200 ms MarkObjects: 2.143200 ms  DeleteObjects: 0.105000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 46.339311 seconds.
-  path: Assets/素材/Tilesets/TileA5.png
-  artifactKey: Guid(85ec347f8599a5549839a227abdb01f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileA5.png using Guid(85ec347f8599a5549839a227abdb01f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c065d58c9f1b716df132e39a351df299') in 0.026975 seconds 
-  Import took 0.030290 seconds .
+  Time since last request: 14.189451 seconds.
+  path: Assets/素材/Tilesets/TileA3.png
+  artifactKey: Guid(6fa54e70238278445b36050f2cfa798f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/Tilesets/TileA3.png using Guid(6fa54e70238278445b36050f2cfa798f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c4fb5cb3db32988ff87eb85f3b7e2e1') in 0.099162 seconds 
+  Import took 0.103137 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.006382 seconds.
-  path: Assets/素材/Tilesets/TileA5.png
-  artifactKey: Guid(85ec347f8599a5549839a227abdb01f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileA5.png using Guid(85ec347f8599a5549839a227abdb01f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c065d58c9f1b716df132e39a351df299') in 0.006053 seconds 
-  Import took 0.008498 seconds .
+  Time since last request: 10.215172 seconds.
+  path: Assets/素材/Tilesets/TileA4.png
+  artifactKey: Guid(b1d429699992dfa4bb42683cbb1610cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/Tilesets/TileA4.png using Guid(b1d429699992dfa4bb42683cbb1610cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c80b64750774be649f4679e066452ea') in 0.009929 seconds 
+  Import took 0.013665 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 51.856172 seconds.
-  path: Assets/素材/Tilesets/TileA5.png
-  artifactKey: Guid(85ec347f8599a5549839a227abdb01f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/素材/Tilesets/TileA5.png using Guid(85ec347f8599a5549839a227abdb01f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baf4f0e1746676741b4dd723e36ccb76') in 0.247281 seconds 
-  Import took 0.250840 seconds .
+  Time since last request: 0.045108 seconds.
+  path: Assets/素材/Tilesets/TileA4.png
+  artifactKey: Guid(b1d429699992dfa4bb42683cbb1610cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/Tilesets/TileA4.png using Guid(b1d429699992dfa4bb42683cbb1610cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c80b64750774be649f4679e066452ea') in 0.011888 seconds 
+  Import took 0.015355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.895225 seconds.
+  path: Assets/素材/Tilesets/TileA4.png
+  artifactKey: Guid(b1d429699992dfa4bb42683cbb1610cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/Tilesets/TileA4.png using Guid(b1d429699992dfa4bb42683cbb1610cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f0be64902b854bce610c0e277232510') in 0.148879 seconds 
+  Import took 0.153191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.426342 seconds.
+  path: Assets/素材/Tilesets/TileB.png
+  artifactKey: Guid(52a18f2214c61fc46877818d11e80ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/Tilesets/TileB.png using Guid(52a18f2214c61fc46877818d11e80ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '052d32873fbe3c67814ff7d6019fb030') in 0.010756 seconds 
+  Import took 0.014770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039490 seconds.
+  path: Assets/素材/Tilesets/TileB.png
+  artifactKey: Guid(52a18f2214c61fc46877818d11e80ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/Tilesets/TileB.png using Guid(52a18f2214c61fc46877818d11e80ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '052d32873fbe3c67814ff7d6019fb030') in 0.009106 seconds 
+  Import took 0.012181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 311.856654 seconds.
+  path: Assets/素材/Tilesets/TileB.png
+  artifactKey: Guid(52a18f2214c61fc46877818d11e80ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/Tilesets/TileB.png using Guid(52a18f2214c61fc46877818d11e80ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3db20b0197edeae2c2add67f8dcfd90') in 0.365501 seconds 
+  Import took 0.370173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.896880 seconds.
+  path: Assets/素材/Tilesets/TileC.png
+  artifactKey: Guid(9f6b684ea725dd0498a0f5049927ef77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/Tilesets/TileC.png using Guid(9f6b684ea725dd0498a0f5049927ef77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0912d4bd21fbd8b154d3b0a45e7584ba') in 0.008519 seconds 
+  Import took 0.012017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048929 seconds.
+  path: Assets/素材/Tilesets/TileC.png
+  artifactKey: Guid(9f6b684ea725dd0498a0f5049927ef77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/Tilesets/TileC.png using Guid(9f6b684ea725dd0498a0f5049927ef77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0912d4bd21fbd8b154d3b0a45e7584ba') in 0.009361 seconds 
+  Import took 0.012545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 411.946209 seconds.
+  path: Assets/素材/Tilesets/TileC.png
+  artifactKey: Guid(9f6b684ea725dd0498a0f5049927ef77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/Tilesets/TileC.png using Guid(9f6b684ea725dd0498a0f5049927ef77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32cb2f51a628519c1b329e0ba811b716') in 0.267361 seconds 
+  Import took 0.271935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.412156 seconds.
+  path: Assets/素材/Tilesets/TileE12.png
+  artifactKey: Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/Tilesets/TileE12.png using Guid(f15ebab59fd7af542a59e9aca9353df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b16151f7c77d22a35ee5f5e45ccd9756') in 0.251222 seconds 
+  Import took 0.255409 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
