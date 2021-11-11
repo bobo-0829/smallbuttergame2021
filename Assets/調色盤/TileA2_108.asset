@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: road_corner2
+  m_Name: TileA2_108
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: d19518ee532b39c4dadac35e50f7e23b, type: 3}
+  m_Sprite: {fileID: -4785445375632261879, guid: d3b43712df137674a994b3a4442f8348, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
